@@ -18,7 +18,7 @@ struct ContentView: View {
                     .font(.title)
                     .fontWeight(.bold)
                     .foregroundColor(Color.white)
-                Text("Hi! I'm a rising freshmen at Northeastern University from Brookline. I love to dance, watch Netflix (current obsession is Suits, and spending time with friends and family. I'm really interested in UI/UX Design and am majoring in CS & Design.")
+                Text("Hello! I'm a rising freshmen at Northeastern University from Brookline. I love to dance, watch Netflix (current obsession is Suits) and spending time with friends and family. I'm really interested in UI/UX Design and am majoring in CS & Design.")
                     .multilineTextAlignment(.center)
                     .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
                 Spacer()
